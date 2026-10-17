@@ -1,55 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 115" width="860" height="115">
     <defs>
-        <!-- Refined Executive Slate Gradient -->
-        <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-            <stop offset="0%" stop-color="#0b1120"/>
-            <stop offset="100%" stop-color="#162032"/>
+        <!-- Refined Executive Dark Navy Gradient -->
+        <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#0b0f19"/>
+            <stop offset="60%" stop-color="#111827"/>
+            <stop offset="100%" stop-color="#0e1726"/>
         </linearGradient>
 
-        <!-- Subtle Accent Line Gradient -->
-        <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" stop-color="#38bdf8"/>
-            <stop offset="50%" stop-color="#6366f1"/>
-            <stop offset="100%" stop-color="#38bdf8"/>
+        <!-- Subtle Top Accent Highlight -->
+        <linearGradient id="topAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.9"/>
+            <stop offset="50%" stop-color="#818cf8" stop-opacity="0.8"/>
+            <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.3"/>
         </linearGradient>
 
-        <filter id="cardShadow" x="-10%" y="-10%" width="120%" height="120%">
-            <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000000" flood-opacity="0.3"/>
+        <!-- Soft Glow behind name -->
+        <radialGradient id="softGlow" cx="15%" cy="30%" r="60%">
+            <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.12"/>
+            <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+        </radialGradient>
+
+        <filter id="shadow" x="-5%" y="-10%" width="110%" height="130%">
+            <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.3"/>
         </filter>
     </defs>
 
-    <!-- Main Card Container -->
-    <rect x="15" y="15" width="870" height="170" rx="14" fill="url(#bg)" stroke="#26354a" stroke-width="1.2" filter="url(#cardShadow)"/>
+    <!-- Main Card Body -->
+    <rect x="10" y="8" width="840" height="98" rx="10" fill="url(#cardBg)" stroke="#1e293b" stroke-width="1.2" filter="url(#shadow)"/>
+    
+    <!-- Subtle Ambient Glow -->
+    <rect x="10" y="8" width="840" height="98" rx="10" fill="url(#softGlow)"/>
 
-    <!-- Subtle Top Accent Border -->
-    <path d="M 29 15 L 871 15" stroke="url(#accentLine)" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- Sleek Top Accent Line -->
+    <path d="M 20 8 L 840 8" stroke="url(#topAccent)" stroke-width="2" stroke-linecap="round"/>
 
-    <!-- Left: Status Pill -->
-    <g transform="translate(50, 42)">
-        <rect x="0" y="0" width="180" height="22" rx="11" fill="rgba(16, 185, 129, 0.12)" stroke="rgba(16, 185, 129, 0.28)" stroke-width="1"/>
-        <circle cx="11" cy="11" r="3.5" fill="#10b981"/>
-        <text x="22" y="15" fill="#34d399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="10" font-weight="600" letter-spacing="0.5">OPEN TO OPPORTUNITIES</text>
-    </g>
-
-    <!-- Name Heading -->
-    <text x="50" y="100" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="32" font-weight="700" letter-spacing="-0.5">Gauri Kadalge</text>
-
-    <!-- Professional Subtitle -->
-    <text x="50" y="128" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="14" font-weight="400">
-        AI &amp; Machine Learning Engineer &bull; Computer Science &amp; Engineering &bull; Systems &amp; Telemetry
+    <!-- 1. Name -->
+    <text x="38" y="44" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="26" font-weight="700" letter-spacing="-0.4">
+        Gauri Kadalge
     </text>
 
-    <!-- Affiliation / Honors Line -->
-    <g transform="translate(50, 154)">
-        <text fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, monospace" font-size="11.5" font-weight="500">
-            <tspan fill="#cbd5e1" font-weight="600">VIT Pune</tspan> &bull; Finalist @ <tspan fill="#38bdf8">Mumbai Hacks 2025</tspan> &bull; Project @ <tspan fill="#818cf8">iSIH 2026 (OFFAIR)</tspan>
-        </text>
-    </g>
+    <!-- 2. AI & ML Engineer Line -->
+    <text x="38" y="69" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="14.5" font-weight="450" letter-spacing="-0.1">
+        AI &amp; Machine Learning Engineer
+    </text>
 
-    <!-- Right: Monogram Box -->
-    <g transform="translate(760, 48)">
-        <rect x="0" y="0" width="76" height="76" rx="14" fill="#111a2c" stroke="#2d3d56" stroke-width="1.2"/>
-        <text x="38" y="46" text-anchor="middle" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="700" letter-spacing="-0.5">GK</text>
-        <text x="38" y="63" text-anchor="middle" fill="#64748b" font-family="'JetBrains Mono', monospace" font-size="8" font-weight="600" letter-spacing="1">DEV</text>
-    </g>
+    <!-- 3. VIT Pune -->
+    <text x="38" y="90" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif" font-size="13" font-weight="600" letter-spacing="0.3">
+        VIT Pune
+    </text>
 </svg>

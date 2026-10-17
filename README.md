@@ -2,16 +2,11 @@
 
 <img src=".github/assets/banner.svg" width="100%" alt="Gauri Kadalge — AI & Machine Learning Engineer"/>
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&random=false&width=620&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+%C2%B7+Data+Pipelines+%C2%B7+IoT+Telemetry;Building+reliable%2C+high-impact+software;Mumbai+Hacks+2025+Finalist+%C2%B7+iSIH+2026;Open+to+AI+%2F+ML+%2F+SWE+Opportunities)](https://git.io/typing-svg)
-
-<br/>
-
-<a href="https://www.linkedin.com/in/gauri-kadalge-2847b3336/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://github.com/gaurikadalge"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
-<a href="mailto:gaurikadalge02@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=gaurikadalge&style=flat-square&color=0A66C2&label=profile+views" alt="Profile Views" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/gauri-kadalge-2847b3336/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/gaurikadalge"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="mailto:gaurikadalge02@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 </div>
 
@@ -25,7 +20,7 @@ My technical focus centers on practical machine learning pipelines, algorithmic 
 
 Proficient in **Python** for machine learning, model validation, and predictive analytics, and **C++** for core data structures, algorithms, and systems performance.
 
-📍 Pune, Maharashtra &nbsp;·&nbsp; 🎓 VIT Pune, B.Tech &nbsp;·&nbsp; 🎯 Open to AI / ML & Software Engineering opportunities
+📍 Pune, Maharashtra &nbsp;·&nbsp; 🎓 VIT Pune, B.Tech
 
 ---
 
