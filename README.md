@@ -55,9 +55,3 @@ Proficient in **Python** for machine learning, model validation, and predictive 
 | **Engineering & Tools** | `Git & GitHub Actions`, `Streamlit`, `Docker`, `Linux`, `VS Code` |
 | **Core CS & Systems** | `Data Structures & Algorithms`, `Object-Oriented Programming (OOP)`, `IoT Systems`, `PID Control` |
 | **Databases & Web** | `MySQL`, `Relational Schema Design`, `HTML5`, `CSS3` |
-
----
-
-<div align="center">
-  <sub>Engineered with precision &bull; <a href="https://github.com/gaurikadalge">Gauri Kadalge</a></sub>
-</div>
