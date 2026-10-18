@@ -58,18 +58,6 @@ Proficient in **Python** for machine learning, model validation, and predictive 
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaurikadalge/gaurikadalge/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gaurikadalge/gaurikadalge/output/github-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/gaurikadalge/gaurikadalge/output/github-snake.svg"/>
-</picture>
-</div>
-
----
-
 <div align="center">
   <sub>Engineered with precision &bull; <a href="https://github.com/gaurikadalge">Gauri Kadalge</a></sub>
 </div>
