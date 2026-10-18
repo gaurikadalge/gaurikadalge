@@ -2,11 +2,9 @@
 
 <img src=".github/assets/banner.svg" width="100%" alt="Gauri Kadalge — AI & Machine Learning Engineer"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gauri-kadalge-2847b3336/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/gaurikadalge"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;
-  <a href="mailto:gaurikadalge02@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauri-kadalge-2847b3336/) &nbsp;&nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gaurikadalge) &nbsp;&nbsp; [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gaurikadalge02@gmail.com)
 
 </div>
 
@@ -57,41 +55,6 @@ Proficient in **Python** for machine learning, model validation, and predictive 
 | **Engineering & Tools** | `Git & GitHub Actions`, `Streamlit`, `Docker`, `Linux`, `VS Code` |
 | **Core CS & Systems** | `Data Structures & Algorithms`, `Object-Oriented Programming (OOP)`, `IoT Systems`, `PID Control` |
 | **Databases & Web** | `MySQL`, `Relational Schema Design`, `HTML5`, `CSS3` |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gaurikadalge&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&bg_color=0D1117"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gaurikadalge&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0969DA&icon_color=0969DA&text_color=24292F&bg_color=FFFFFF"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gaurikadalge&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0969DA&icon_color=0969DA&text_color=24292F&bg_color=FFFFFF" alt="GitHub Stats"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurikadalge&layout=compact&langs_count=7&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0D1117"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurikadalge&layout=compact&langs_count=7&hide_border=true&title_color=0969DA&text_color=24292F&bg_color=FFFFFF"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurikadalge&layout=compact&langs_count=7&hide_border=true&title_color=0969DA&text_color=24292F&bg_color=FFFFFF" alt="Top Languages"/>
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=gaurikadalge&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=8B949E&stroke=30363D"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=gaurikadalge&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=57606A&stroke=D0D7DE"/>
-  <img width="55%" src="https://streak-stats.demolab.com?user=gaurikadalge&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=57606A&stroke=D0D7DE" alt="Streak Stats"/>
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gaurikadalge&bg_color=0D1117&color=38BDF8&line=38BDF8&point=F0F6FC&area=true&area_color=38BDF815&hide_border=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gaurikadalge&bg_color=FFFFFF&color=0969DA&line=0969DA&point=24292F&area=true&area_color=0969DA15&hide_border=true"/>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gaurikadalge&bg_color=FFFFFF&color=0969DA&line=0969DA&point=24292F&area=true&area_color=0969DA15&hide_border=true" alt="Activity Graph"/>
-</picture>
-
-</div>
 
 ---
 
